@@ -1,0 +1,19 @@
+1.	Jelaskan konsep OOP pada PHP
+Jawab:
+Konsep OOP "Object Oriented Programming" dalam PHP diibaratkan dengan pembuatan jalan cepat dalam suatu program untuk memecahkan kode program itu menjadi bagian yang lebih sederhana dengan menggunakan objek. Dan objek ini memiliki fungsi khusus yang dapat berdiri secara independen. 
+	
+OOP dalam PHP adalah "fitur" yang membantu menyempurnakan pengerjaan pemrograman. Kita dimudahkan dengan adanya OOP ini, kelebihannya diantaranya:
+•	Hanya perlu mendefinisikan sebuah class dan tidak perlu dituliskan berulang kali.
+•	Dapat menambahkan fitur pada class tanpa perlu mengedit sumber atau asal class.
+•	Dapat menggunakan sebuah object tanpa perlu mengetahui masalah teknis yang ada didalamnya.
+•	Data yang ada di dalam, dapat diatur secara private sehingga tidak dapat diakses dari luar blok/aplikasi.
+•	Dapat membangun library atau penyimpanan yang nantinya akan memudahkan kita ketika membuat sebuah sistem informasi.
+Konsep OOP dalam PHP:
+•	Class: Diibaratkan sebagai tamplate/arsitektur untuk membuat instance dari objek
+•	Object: Implementasi/bentuk nyata dari rancangan class
+•	Property: Mempresentasikan data/keadaan dari sebuah object
+•	Method: Mempresentasikan perilaku dari sebuah object
+•	Enkkapitulasi: Untuk menyembunyikan detail internal object dan mengekspos apa yang diperlukan
+•	Inheritance: Class baru dapat mengambil property dari metode class yang sudah ada
+•	Polimorfisme: Object dari class yang berbeda merespon metode dengan nama yang sesuai dengan perilaku masing—masing
+•	Abstraksi: Class abstrak yang tidak bisa diinstansiasi
